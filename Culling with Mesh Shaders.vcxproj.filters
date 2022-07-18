@@ -236,5 +236,6 @@
     <None Include="resources\shaders\culling_shader.mesh" />
     <None Include="resources\shaders\cs_culling.vert" />
     <None Include="resources\shaders\cs_culling.comp" />
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>
